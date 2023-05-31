@@ -1,4 +1,4 @@
-# Car-Price-Prediction
+# Car-Price-Classification S
 using Xgboost to predict the price categrory with complete preprocessing and feature selection and feature engineering
 The objective of the project is to prepare to apply different machine
 learning algorithms to real-world tasks. This will help the you to increase their
