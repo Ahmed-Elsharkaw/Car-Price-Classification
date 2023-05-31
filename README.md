@@ -39,5 +39,5 @@ We apply feature scaling to 3 coulmns (mean price – volume - mileage) using sk
 ![image](https://github.com/Ahmed-Elsharkaw/Car-price-prediction/assets/113799131/e9e620cc-02a1-4829-a68d-25a24bf388cc)
 
 
-![Screenshot](ssssssssssssssssssss.PNG)
+![Screenshot](train data.PNG)
 
